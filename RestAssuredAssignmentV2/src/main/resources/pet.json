@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "category": {
+    "id": 0,
+    "name": "Dog"
+  },
+  "name": "Aşil",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Boxer"
+    }
+  ],
+  "status": "available"
+}
