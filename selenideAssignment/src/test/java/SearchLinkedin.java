@@ -18,7 +18,7 @@ public class SearchLinkedin extends BaseTest {
         google.goToHomePage();
         ResultPage resultPage =  google.searchText("Linkedin");
         resultPage.clickFirstResult();
-        linkedinLogo.should(Condition.appear);
+        assert  linkedinLogo.isDisplayed();
 
     }
 
