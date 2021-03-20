@@ -18,5 +18,4 @@ public class ResultPage{
         results.findBy(Condition.text(text)).find(By.tagName("a")).click();
     }
 
-
 }

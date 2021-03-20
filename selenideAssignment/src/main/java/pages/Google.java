@@ -16,4 +16,5 @@ public class Google {
         searchBox.setValue(text).pressEnter();
         return new ResultPage();
     }
+
 }
